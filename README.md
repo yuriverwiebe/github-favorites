@@ -17,7 +17,7 @@ Projeto criado no curso Explorer da RocketSeat.
 <br>
 
 <p align="center">
-  <img alt="Imagem Ilustrativa Github Favorites" src="./img/preview.png" width="100%">
+  <img alt="Imagem Ilustrativa Github Favorites" src="img/preview.png" width="200px">
 </p>
 
 ## 🚀 Tecnologias
