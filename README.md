@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto consiste em um site onde tem integração com uma API do Github que te permite colocar um user do Github e ela vai dar se o usuário existe se existir vai adicionar nos favoritos se não existir vai lançar um erro. Você pode manipular os usuários adicionados removendo os existentes ou adicionando novos.
+O projeto consiste em um site onde tem integração com uma API do Github que te permite colocar um user do Github e ela vai dar se o usuário existe se existir vai adicionar nos favoritos se não existir vai lançar um erro. Você pode manipular os usuários adicionados removendo os existentes ou adicionando novos. Acesse o projeto [AQUI](https://yuriverwiebe.github.io/github-favorites)
  
 <br>
 
